@@ -1,0 +1,2 @@
+C:\Users\chrim\Desktop\MysticQuest\Debug\glew32d.dll
+C:\Users\chrim\Desktop\MysticQuest\MysticQuest\Debug\OpenGLMe.EB1C43F8.Up2Date

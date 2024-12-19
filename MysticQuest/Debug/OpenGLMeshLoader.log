@@ -1,0 +1,28 @@
+﻿  level1.cpp
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(297,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(534,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(616,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(616,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(616,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(654,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(654,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chrim\Desktop\MysticQuest\level1.cpp(654,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  level2.cpp
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(300,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(538,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(538,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(538,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(547,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(547,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(547,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(564,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(564,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(564,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(599,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(599,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chrim\Desktop\MysticQuest\level2.cpp(599,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\chrim\Desktop\MysticQuest\Debug\MysticQuest.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

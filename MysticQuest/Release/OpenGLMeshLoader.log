@@ -1,0 +1,23 @@
+﻿  camera.cpp
+  game.cpp
+  GLTexture.cpp
+  level1.cpp
+C:\Users\chrim\Desktop\MysticQuest\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'level1.cpp')
+  
+C:\Users\chrim\Desktop\MysticQuest\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'level1.cpp')
+  
+  level2.cpp
+  main.cpp
+  menu.cpp
+C:\Users\chrim\Desktop\MysticQuest\menu.cpp(84,22): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\chrim\Desktop\MysticQuest\menu.cpp(85,23): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\chrim\Desktop\MysticQuest\menu.cpp(99,22): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\chrim\Desktop\MysticQuest\menu.cpp(100,23): warning C4305: '*=': truncation from 'double' to 'float'
+  Model_3DS.cpp
+  C:\Users\chrim\Desktop\MysticQuest\Model_3DS.cpp(78) : You need to uncomment this if you are using MFC
+  texture.cpp
+glaux.lib(tk.obj) : error LNK2001: unresolved external symbol _sscanf
+glaux.lib(tk.obj) : error LNK2001: unresolved external symbol _vsprintf
+C:\Users\chrim\Desktop\MysticQuest\Release\MysticQuest.exe : fatal error LNK1120: 2 unresolved externals
